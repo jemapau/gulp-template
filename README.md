@@ -1,6 +1,6 @@
 # Gulp Tasks
 
-This is a basic template usign Gulp for running different Task.
+This is a basic template usign Gulp.
 
 ## How to implement a Typekit Font
 
