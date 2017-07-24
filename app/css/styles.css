@@ -3,4 +3,6 @@
   width: 71.42857%; }
 
 body {
-  background: grey; }
+  background: white;
+  font-family: "abril-text",serif;
+  font-size: 20px; }
